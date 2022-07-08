@@ -32,20 +32,7 @@
  #Executar o projeto pelo Android Studio ou Visual Studio code <br>
 
 
-<br>
 
- ## Base de Dados
- Primeiro crie uma base de dado com o nome procurados&achados , depois seguir os passos: <br>
-⚙ --npx knex migrate:latest<br>
-
-<br>
-
-## Iniciar aplicação
-
-⚙ --npm start <br>
- #Compila o hot-reloads para desenvolvimento
- 
- 
  <br>
  
   <p align=center > Desenvolvido por  <b> Jacob Larte </b>  ----- Me adicione no <a href="https://www.linkedin.com/in/jacob-lartes/">Linkedin</a> </p>
