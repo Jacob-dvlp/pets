@@ -31,8 +31,6 @@
  ⚙ -- flutter run ou F5 <br>
  #Executar o projeto pelo Android Studio ou Visual Studio code <br>
 
-
-
  <br>
  
   <p align=center > Desenvolvido por  <b> Jacob Larte </b>  ----- Me adicione no <a href="https://www.linkedin.com/in/jacob-lartes/">Linkedin</a> </p>
