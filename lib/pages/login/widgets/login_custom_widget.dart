@@ -46,8 +46,9 @@ class LoginCustomWidget extends StatelessWidget {
                     height: 30,
                   ),
                   Padding(
-                    padding: const EdgeInsets.all(12.0),
+                    padding: const EdgeInsets.all(15.0),
                     child: SizedBox(
+                      width: 300,
                       child: TextField(
                         controller: controller.textEditeController,
                         decoration: InputDecoration(

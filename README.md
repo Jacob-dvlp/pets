@@ -3,7 +3,7 @@
 
 
 
-<b>Objectivo dessa API </b>   
+<b>Objectivo desse app </b>   
 
 <p> Este aplicativo  tem como objetivo Listar os dados que vem de duas APIs de Pets <b> Gatinhos e Cachorrinhos </b>  </p>
 
@@ -16,7 +16,7 @@
 
 
 <br>
-## 🛠 Pacotes utilizados
+## 🛠 Pacotes utilizados <br>  
 ⚙ get: ^4.6.5 <br>  
 ⚙ get_storage: ^2.0.3 <br>
 ⚙ cached_network_image: ^3.2.0 <br>
